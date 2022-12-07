@@ -12,5 +12,5 @@ A snake game in which the player can move in any direction instead of the classi
 ### Windows
 *(may work on Linux too but wasn't tested)*
 ```console
-$ processing-java --sketch=<path_to_continuous-snake_directory> --run
+$ processing-java --sketch=path/to/snake --run
 ```

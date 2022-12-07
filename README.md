@@ -14,3 +14,4 @@ A snake game in which the player can move in any direction instead of the classi
 ```console
 $ processing-java --sketch=path/to/snake --run
 ```
+**Note:** `path/to/snake` is a path to the directory containing `snake.pde`.

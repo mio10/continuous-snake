@@ -1,9 +1,9 @@
 # Continuous Snake
 
+![](preview.gif)
+
 ## Description
 A snake game in which the player can move in any direction instead of the classic 4 directions. Written in [Processing](https://processing.org/).
-
-![](thumbnail.png)
 
 ## Requirements
 [Processing](https://processing.org)
